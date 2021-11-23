@@ -1,0 +1,23 @@
+<save_save2>
+  <Tiles>
+    <size value="3;4" />
+    <winConditions value="0;0;True;False;False" />
+    <tileState value="0;0;False;6;0;1;" />
+    <conditions0 value="0;2;2;2" />
+    <tileState value="0;1;False;2;0;1;" />
+    <conditions0 value="1;2;0;0" />
+    <tileState value="0;2;False;5;0;1;" />
+    <conditions0 value="1;4;0;0" />
+    <tileState value="0;3;False;5;0;0;" />
+    <tileState value="1;0;False;2;0;0;" />
+    <tileState value="1;1;False;5;0;1;" />
+    <conditions0 value="1;4;0;0" />
+    <tileState value="1;2;True;0;0;0;" />
+    <tileState value="1;3;False;4;0;0;" />
+    <tileState value="2;0;False;2;0;1;" />
+    <conditions0 value="0;5;1;1" />
+    <tileState value="2;1;False;5;0;0;" />
+    <tileState value="2;2;False;6;0;0;" />
+    <tileState value="2;3;False;2;0;0;" />
+  </Tiles>
+</save_save2>

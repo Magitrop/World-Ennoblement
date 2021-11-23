@@ -1,0 +1,17 @@
+﻿{
+  "item_bugrovian_potato": "Potato a la Bugrovian",
+  "item_batya_jacket": "Batya's Jacket",
+  "item_ivan_boots": "Ivan's Boots",
+  "item_common_boots": "Common Boots",
+
+  "item_common_boots_description": "",
+  "item_common_boots_action_description": "",
+  "item_batya_jacket_description": "",
+  "item_batya_jacket_action_description": "",
+  "item_bugrovian_potato_description": "",
+  "item_bugrovian_potato_action_description": "",
+  "item_ivan_boots_description": "",
+  "item_ivan_boots_action_description": "Bonus attack when as Weapon; Bonus protection and movement speed penalty when as Boots",
+  "item_cheese_bun_description": "",
+  "item_cheese_bun_action_description": "",
+}

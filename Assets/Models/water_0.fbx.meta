@@ -1,0 +1,154 @@
+fileFormatVersion: 2
+guid: 9a7efa75d2c7ffa4b825d147ed3a1910
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    400000: //RootNode
+    2100000: grass.008
+    2100002: water.002
+    2100004: bark.016
+    2100006: leaves.020
+    2100008: bark.014
+    2100010: leaves.018
+    2100012: bark.012
+    2100014: leaves.016
+    2100016: bark.006
+    2100018: leaves.010
+    2100020: bark.001
+    2100022: leaves.005
+    2100024: bark.002
+    2100026: leaves.006
+    2100028: bark.003
+    2100030: leaves.007
+    2100032: bark.004
+    2100034: leaves.008
+    2100036: bark.005
+    2100038: leaves.009
+    2100040: bark.007
+    2100042: leaves.011
+    2100044: bark.008
+    2100046: leaves.012
+    2100048: bark.009
+    2100050: leaves.013
+    2100052: bark.010
+    2100054: leaves.014
+    2100056: bark.011
+    2100058: leaves.015
+    2100060: bark.013
+    2100062: leaves.017
+    2100064: bark.015
+    2100066: leaves.019
+    2100068: bark.017
+    2100070: leaves.021
+    2100072: bark.018
+    2100074: leaves.022
+    2100076: bark.019
+    2100078: leaves.023
+    2100080: bark.020
+    2100082: leaves.024
+    2100084: bark.021
+    2100086: leaves.025
+    2100088: bark.022
+    2100090: leaves.026
+    2100092: bark.023
+    2100094: leaves.027
+    2100096: bark.024
+    2100098: leaves.028
+    2100100: bark.025
+    2100102: leaves.029
+    2100104: bark.026
+    2100106: leaves.030
+    2100108: bark.027
+    2100110: leaves.031
+    2100112: water
+    2100114: leaves
+    2100116: bark
+    2100118: grass.007
+    2300000: //RootNode
+    3300000: //RootNode
+    4300000: Plane
+    4300002: Plane.002
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
